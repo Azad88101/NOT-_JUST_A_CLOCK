@@ -1,0 +1,10 @@
+
+{
+  "name": "NOT JUST A CLOCK",
+  "version": "0.1",
+  "manifest_version": 3,
+  "description": "tell you how much time do you have?",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
